@@ -7,5 +7,6 @@ edition = "2021"
 
 [dependencies]
 env_logger = "0.10.0"
+pollster = "0.3.0"
 wgpu = "0.17.0"
 winit = "0.28.6"
